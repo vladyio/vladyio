@@ -19,4 +19,4 @@ Here are some of my pet projects:
  
 ### Social 
 
-<a href="https://www.linkedin.com/in/vlad-andreev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a src="mailto:me@vld.by"><img alt="me@vld.by" src="https://img.shields.io/badge/me@vld.by%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white"></a> <a src="https://vld.by"><img alt="https://vld.by" src="https://img.shields.io/badge/vld.by%20-%23323330.svg?&style=for-the-badge&logo=jekyll&logoColor=violet"></a>
+<a href="https://www.linkedin.com/in/vlad-andreev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:me@vld.by"><img alt="me@vld.by" src="https://img.shields.io/badge/me@vld.by%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white"></a> <a href="https://vld.by"><img alt="https://vld.by" src="https://img.shields.io/badge/vld.by%20-%23323330.svg?&style=for-the-badge&logo=jekyll&logoColor=violet"></a>
