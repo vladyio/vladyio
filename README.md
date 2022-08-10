@@ -8,7 +8,7 @@ Here are some of my pet projects:
 
 | Project | Motivation |
 |---------|------------|
-| 🔑 [Volatile.wtf Key-Value storage](https://github.com/vladyio/volatile-wtf-rb)       | An API wrapper for https://volatile.wtf key-value storage. Just wanted to have fun and implement an actual gem          |
+| 🔑 [Volatile.wtf Key-Value storage](https://github.com/vladyio/volatile-wtf-rb)    <img alt="Gem" src="https://img.shields.io/gem/dt/volatile_wtf?style=for-the-badge">  | An API wrapper for https://volatile.wtf key-value storage. Just wanted to have fun and implement an actual gem          |
 | 📔 [Kod.one](https://github.com/vladyio/kod.one)       | I needed a place to quickly store my code snippets, Pastebin was too overloaded for my taste, This project is still in progress, but it does what it was made for! 😀          |
 | 📊 [Speedtest Log](https://github.com/vladyio/speedtest_log)        | My ISP seems to be cutting down my speed, so I wrote a tool to log my speed test results            |
 
