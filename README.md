@@ -6,7 +6,7 @@ I mostly do Ruby and Rails stuff. I really love experimenting with new things as
 
 Here are some of my pet projects:
 
-| Project | Motivation |
+| Project | Description |
 |---------|------------|
 |🇬🇷 [Greek ABC](https://github.com/vladyio/greek_abc) <br><img alt="Gem" src="https://img.shields.io/gem/dt/greek_abc?style=for-the-badge">| A gem for Greek alphabet, made just for fun (YARD, RSpec, RBS, CI) | 
 | 📔 [Kod.one](https://github.com/vladyio/kod.one)       | Share your code snippets with no unnecessary garbage          |
