@@ -9,8 +9,8 @@ Here are some of my pet projects:
 | Project | Description |
 |---------|------------|
 |🇬🇷 [Greek ABC](https://github.com/vladyio/greek_abc) <br><img alt="Gem" src="https://img.shields.io/gem/dt/greek_abc?style=for-the-badge">| A gem for Greek alphabet, made just for fun (YARD, RSpec, RBS, CI) | 
-| 📔 [Kod.one](https://github.com/vladyio/kod.one) <br><img src="https://img.shields.io/github/stars/vladyio/kod.one?style=for-the-badge">       | Share your code snippets with no unnecessary garbage          |
-| 📊 [Speedtest Log](https://github.com/vladyio/speedtest_log)        | My ISP was cutting down the speed, so that's a tool to log speed test results            |
+| 📔 [Kod.one](https://github.com/vladyio/kod.one) <br><img src="https://img.shields.io/github/stars/vladyio/kod.one?style=for-the-badge">       | Share your code snippets with no unnecessary garbage (Docker, Postgres, Rails 7, Ruby 3, React 18, react-redux, react-router)         |
+| 📊 [Speedtest Log](https://github.com/vladyio/speedtest_log)        | My ISP was cutting down the speed, so that's a tool to log speed test results (Sinatra, Chartkick, SQLite3)           |
 | 🔑 [Volatile.wtf Key-Value storage](https://github.com/vladyio/volatile-wtf-rb)    <br><img alt="Gem" src="https://img.shields.io/gem/dt/volatile_wtf?style=for-the-badge">  | **DEPRECATED** • An API wrapper for https://volatile.wtf key-value storage          |
 
 
